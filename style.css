@@ -53,11 +53,12 @@ h3 {
 
 .author_container
 {
+    padding-left: 140px;
     padding-top: 10px;
     padding-bottom: 15px;
     display: inline-flex;
     justify-content: center;
-    padding-left: 140px;
+    text-align: center
     /*align-content: center;*/
 }
 
@@ -91,8 +92,9 @@ h3 {
 
 .abstract{
     font-size:14px;
-    font-family:Verdana, Geneva, sans-serif;
+    font-family:Verdana, Geneva, sans-serif;"
     width: 800px;
+    /*text-align: cent*/
 }
 
 .sechighlight{
@@ -101,4 +103,5 @@ h3 {
     padding-right: 70px;
     padding-top: 10px;
     padding-bottom: 25px;
+    align-items: center;
 }
